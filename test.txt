@@ -4,6 +4,10 @@ http://test.com
 
 http://resignation.tips/img/how-to-quit-your-job.jpg
 
+// 1.) First check the url is http or https:
+// 2.) if not http or https just update the current value entered.
+// 3.) if its http or https download the image if url exists
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
